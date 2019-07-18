@@ -669,13 +669,13 @@
 .testimonial-section .main-bg-wrapper {
   margin: 150px 0 0 368px;
   position: relative;
-  background: url(../images/home/1.jpg) no-repeat center;
-  background-size: cover;
+  background: url(../images/background-parallax.jpg) no-repeat center;
+  background-size: contain;
   background-attachment: fixed;
   height: 700px;
 }
 .testimonial-section .main-bg-wrapper .overlay {
-  background: rgba(0,0,0,0.3);
+  background: rgba(0,0,0,0.03);
   height: 100%;
 }
 .testimonial-section .main-bg-wrapper .main-slider-wrapper {
@@ -754,7 +754,7 @@
   z-index: 9;
 }
 #watch-video h6 {
-  color: #fff;
+  color: #707070;
   font-weight: 300;
   font-size: 20px;
 }
@@ -762,7 +762,7 @@
   font-weight: 600;
   text-transform: uppercase;
   font-size: 20px;
-  color: #fff;
+  color: #707070;
   margin-top: 7px;
 }
 #watch-video a {
