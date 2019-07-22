@@ -671,7 +671,6 @@
   position: relative;
   background: url(../images/background-parallax.jpg) no-repeat center;
   background-size: contain;
-  background-attachment: fixed;
   height: 700px;
 }
 .testimonial-section .main-bg-wrapper .overlay {
