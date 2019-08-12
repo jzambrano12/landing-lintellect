@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="ff218d66-d903-4a12-b4f2-15a55f9772ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/02a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/02a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/04a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/04a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/09a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/09a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/10a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/10a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background-parallax.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background-parallax.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/main-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/home/main-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <state relative-caret-position="-138">
+              <caret line="252" column="64" lean-forward="true" selection-start-line="252" selection-start-column="64" selection-end-line="252" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -91,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,6 +115,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,12 +163,13 @@
       <workItem from="1564088783216" duration="1381000" />
       <workItem from="1564092014749" duration="716000" />
       <workItem from="1564144486918" duration="602000" />
-      <workItem from="1564178624014" duration="410000" />
+      <workItem from="1564178624014" duration="443000" />
+      <workItem from="1565626229366" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23889000" />
+    <option name="totallyTimeSpent" value="23961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="195" width="1366" height="743" extended-state="6" />
@@ -231,8 +240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="-138">
+          <caret line="252" column="64" lean-forward="true" selection-start-line="252" selection-start-column="64" selection-end-line="252" selection-end-column="64" />
         </state>
       </provider>
     </entry>
