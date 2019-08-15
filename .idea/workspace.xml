@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ff218d66-d903-4a12-b4f2-15a55f9772ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/02a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/02a.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/04a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/04a.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/09a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/09a.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/10a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/10a.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background-parallax.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background-parallax.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/main-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/home/main-background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon/2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-138">
-              <caret line="252" column="64" lean-forward="true" selection-start-line="252" selection-start-column="64" selection-end-line="252" selection-end-column="64" />
+            <state relative-caret-position="276">
+              <caret line="50" column="127" selection-start-line="49" selection-start-column="24" selection-end-line="50" selection-end-column="127" />
             </state>
           </provider>
         </entry>
@@ -121,7 +114,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../landing-lintellect-es" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -164,16 +157,16 @@
       <workItem from="1564092014749" duration="716000" />
       <workItem from="1564144486918" duration="602000" />
       <workItem from="1564178624014" duration="443000" />
-      <workItem from="1565626229366" duration="39000" />
+      <workItem from="1565626229366" duration="60000" />
+      <workItem from="1565871796521" duration="189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23961000" />
+    <option name="totallyTimeSpent" value="24171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="195" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24888559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -240,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="252" column="64" lean-forward="true" selection-start-line="252" selection-start-column="64" selection-end-line="252" selection-end-column="64" />
+        <state relative-caret-position="276">
+          <caret line="50" column="127" selection-start-line="49" selection-start-column="24" selection-end-line="50" selection-end-column="127" />
         </state>
       </provider>
     </entry>
